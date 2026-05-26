@@ -1,0 +1,56 @@
+22:45:29.012 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing User Details...
+22:45:30.521 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:45:30.523 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:45:32.355 [main] INFO  testCases.TC002_AccountLoginTest - ****Starting TC002_AccountLoginTest*****
+22:45:32.704 [main] INFO  testCases.TC002_AccountLoginTest - setting email..
+22:45:32.796 [main] INFO  testCases.TC002_AccountLoginTest - setting password
+22:45:32.877 [main] INFO  testCases.TC002_AccountLoginTest - clicking login
+22:45:33.718 [main] INFO  testCases.TC002_AccountLoginTest - checking if logged in
+22:45:33.759 [main] INFO  testCases.TC002_AccountLoginTest - login success..
+22:45:34.081 [main] INFO  testCases.TC002_AccountLoginTest - logged out...
+22:45:34.081 [main] INFO  testCases.TC002_AccountLoginTest - ****Finished TC002_AccountLoginTest****
+22:47:42.456 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\SeleniumWebDriver\OpenCartV101\crossbrowsertesting.xml"
+22:47:42.640 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\SeleniumWebDriver\OpenCartV101\crossbrowsertesting.xml
+
+22:47:42.808 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:47:44.910 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:47:45.123 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+22:47:45.795 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Account...
+22:47:45.801 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing User Details...
+22:47:56.510 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:47:56.973 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+22:49:54.459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\SeleniumWebDriver\OpenCartV101\crossbrowsertesting.xml"
+22:49:54.644 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\SeleniumWebDriver\OpenCartV101\crossbrowsertesting.xml
+
+22:49:57.278 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:49:57.278 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:49:57.474 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+22:49:57.545 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+22:50:57.566 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\SeleniumWebDriver\OpenCartV101\master.xml"
+22:50:57.740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\SeleniumWebDriver\OpenCartV101\master.xml
+
+22:51:00.327 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:51:00.504 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+22:51:01.709 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Account...
+22:51:01.713 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing User Details...
+22:51:05.118 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:51:05.120 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:51:06.932 [main] INFO  testCases.TC002_AccountLoginTest - ****Starting TC002_AccountLoginTest*****
+22:51:07.295 [main] INFO  testCases.TC002_AccountLoginTest - setting email..
+22:51:07.420 [main] INFO  testCases.TC002_AccountLoginTest - setting password
+22:51:07.520 [main] INFO  testCases.TC002_AccountLoginTest - clicking login
+22:51:07.639 [main] INFO  testCases.TC002_AccountLoginTest - checking if logged in
+22:51:09.081 [main] INFO  testCases.TC002_AccountLoginTest - login success..
+22:51:09.467 [main] INFO  testCases.TC002_AccountLoginTest - logged out...
+22:51:09.467 [main] INFO  testCases.TC002_AccountLoginTest - ****Finished TC002_AccountLoginTest****
+22:51:51.376 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\SeleniumWebDriver\OpenCartV101\crossbrowsertesting.xml"
+22:51:51.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\SeleniumWebDriver\OpenCartV101\crossbrowsertesting.xml
+
+22:51:53.657 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+22:51:53.757 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+22:51:54.124 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Account...
+22:51:54.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing User Details...

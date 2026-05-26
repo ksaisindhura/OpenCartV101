@@ -1,0 +1,7 @@
+01:14:14.520 [main] INFO  testCases.TC002_AccountLoginTest - setting email..
+01:14:14.638 [main] INFO  testCases.TC002_AccountLoginTest - setting password
+01:14:14.712 [main] INFO  testCases.TC002_AccountLoginTest - clicking login
+01:14:14.812 [main] INFO  testCases.TC002_AccountLoginTest - checking if logged in
+01:14:15.917 [main] INFO  testCases.TC002_AccountLoginTest - login success..
+01:14:16.266 [main] INFO  testCases.TC002_AccountLoginTest - logged out...
+01:14:16.267 [main] INFO  testCases.TC002_AccountLoginTest - ****Finished TC002_AccountLoginTest****

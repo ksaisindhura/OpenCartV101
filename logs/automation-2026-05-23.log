@@ -1,0 +1,57 @@
+18:18:39.583 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - ****Starting TC003_LoginDataDrivenTestCase*****
+18:18:40.598 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting email..
+18:18:40.999 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting password
+18:18:41.222 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - clicking login
+18:18:42.448 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - checking if logged in
+18:18:52.530 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - invalid cred- login failed
+18:18:52.531 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - ****Finished TC003_LoginDataDrivenTestCase****
+18:18:52.537 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - ****Starting TC003_LoginDataDrivenTestCase*****
+18:18:53.082 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting email..
+18:18:53.228 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting password
+18:18:53.349 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - clicking login
+18:18:54.278 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - checking if logged in
+18:19:04.295 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - invalid cred- login failed
+18:19:04.296 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - ****Finished TC003_LoginDataDrivenTestCase****
+18:19:04.301 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - ****Starting TC003_LoginDataDrivenTestCase*****
+18:19:05.108 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting email..
+18:19:05.239 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting password
+18:19:05.402 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - clicking login
+18:19:05.569 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - checking if logged in
+18:19:17.167 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - invalid cred- login failed
+18:19:17.168 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - ****Finished TC003_LoginDataDrivenTestCase****
+18:19:17.172 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - ****Starting TC003_LoginDataDrivenTestCase*****
+18:19:17.771 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting email..
+18:19:17.934 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - setting password
+18:19:18.085 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - clicking login
+18:19:19.263 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - checking if logged in
+18:19:19.332 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - invalid cred- login passed
+18:19:20.135 [main] INFO  testCases.TC003_LoginDataDrivenTestCase - logged out...
+20:11:17.393 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\SeleniumWebDriver\OpenCartV101\grouping.xml"
+20:11:17.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\SeleniumWebDriver\OpenCartV101\grouping.xml
+
+20:11:21.764 [main] INFO  testCases.TC002_AccountLoginTest - ****Starting TC002_AccountLoginTest*****
+20:11:22.572 [main] INFO  testCases.TC002_AccountLoginTest - setting email..
+20:11:22.898 [main] INFO  testCases.TC002_AccountLoginTest - setting password
+20:11:23.134 [main] INFO  testCases.TC002_AccountLoginTest - clicking login
+20:11:24.540 [main] INFO  testCases.TC002_AccountLoginTest - checking if logged in
+20:11:24.640 [main] INFO  testCases.TC002_AccountLoginTest - login success..
+20:11:25.286 [main] INFO  testCases.TC002_AccountLoginTest - logged out...
+20:11:25.286 [main] INFO  testCases.TC002_AccountLoginTest - ****Finished TC002_AccountLoginTest****
+20:12:15.744 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\SeleniumWebDriver\OpenCartV101\grouping.xml"
+20:12:16.252 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\SeleniumWebDriver\OpenCartV101\grouping.xml
+
+20:12:19.789 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:12:20.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+20:12:20.599 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Account...
+20:12:20.606 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing User Details...
+20:12:24.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:12:24.597 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:12:27.307 [main] INFO  testCases.TC002_AccountLoginTest - ****Starting TC002_AccountLoginTest*****
+20:12:27.820 [main] INFO  testCases.TC002_AccountLoginTest - setting email..
+20:12:27.999 [main] INFO  testCases.TC002_AccountLoginTest - setting password
+20:12:28.154 [main] INFO  testCases.TC002_AccountLoginTest - clicking login
+20:12:29.221 [main] INFO  testCases.TC002_AccountLoginTest - checking if logged in
+20:12:29.340 [main] INFO  testCases.TC002_AccountLoginTest - login success..
+20:12:29.924 [main] INFO  testCases.TC002_AccountLoginTest - logged out...
